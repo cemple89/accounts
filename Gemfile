@@ -8,6 +8,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'listen'
+gem 'coffee-script', '~> 2.4', '>= 2.4.1'
 group :development, :test do
   gem 'capybara'
   gem 'factory_girl_rails'
